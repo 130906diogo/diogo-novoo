@@ -1,0 +1,54 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.CABEÇALHO
+{
+    background-color: rgb(219, 141, 147);
+    color: rgb(123, 173, 219);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.LOGO-COLÉGIO
+{
+    width: 20%;
+    justify-content: center;
+}
+.NOMEDAESCOLA
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.LISTA
+{
+    color: rgb(132, 95, 167);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.BODY
+{
+    background-image: -o-linear-gradient(#9698A5,#FFFFFF);
+    color: blue;
+    justify-content: center;
+    padding: 24PX 0;
+}
+
+.RODAPEIMAGEM
+{width: 1435px;}
+
+.ICONEFACEBOOK
+{width: 60PX;
+padding: 4px 8px;}
+
+.ICONEINSTRAGAM
+{width: 60px;
+padding: 4px 8px;}
+
+.NOMEFACEBOOK
+{padding: 24px 0;}
