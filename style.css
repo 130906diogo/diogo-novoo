@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
 }
-.CABEÇALHO
+.cabeçalho
 {
     background-color: rgb(219, 141, 147);
     color: rgb(123, 173, 219);
@@ -12,26 +12,29 @@
     align-items: center;
     padding: 24px 0;
 }
-.LOGO-COLÉGIO
+.logo-colegio
 {
     width: 20%;
     justify-content: center;
 }
-.NOMEDAESCOLA
+.nomedaescola
 {
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
 }
-.LISTA
+.lista
 {
     color: rgb(132, 95, 167);
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
-.BODY
+.liste a:active
+{color: aqua;
+}
+.body
 {
     background-image: -o-linear-gradient(#9698A5,#FFFFFF);
     color: blue;
@@ -39,16 +42,16 @@
     padding: 24PX 0;
 }
 
-.RODAPEIMAGEM
+.rodapeimagem
 {width: 1435px;}
 
-.ICONEFACEBOOK
+.iconefacebook
 {width: 60PX;
 padding: 4px 8px;}
 
-.ICONEINSTRAGAM
+.iconeinstagram
 {width: 60px;
 padding: 4px 8px;}
 
-.NOMEFACEBOOK
+.nomefacebook
 {padding: 24px 0;}
